@@ -1,4 +1,5 @@
 MERN Stack E-Commerce Application
+
 This project is an E-Commerce application built using the MERN stack (MongoDB, Express.js, React, and Node.js). The application includes a full-featured Admin Panel for managing products, users, and orders. The project utilizes Redux Toolkit for state management and Tailwind CSS for styling.
 
 Features
